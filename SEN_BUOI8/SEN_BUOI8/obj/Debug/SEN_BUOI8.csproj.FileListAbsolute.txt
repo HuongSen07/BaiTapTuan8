@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\SEN_BUOI8.exe.config
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\SEN_BUOI8.exe
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\SEN_BUOI8.pdb
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.Form1.resources
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.csproj.Up2Date
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.exe
+C:\Users\Administrator\source\repos\SEN_BUOI8\SEN_BUOI8\obj\Debug\SEN_BUOI8.pdb
